@@ -13,7 +13,7 @@ Blender Ver. : Tested on 4.5.1, older versions may also work
 
 
 ## Features 
-- Generate bone from selected vgroup
+- Generate a bone from selected vgroup
 - Generate bones from all vgroups
 - Automatically connect generated bone to the vgroup
 - Just check screenshot below and try it yourself :tired_face:
