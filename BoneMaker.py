@@ -4,7 +4,7 @@ bl_info = {
     "version": (1, 0, 0),
     "blender": (3, 0, 0),
     "location": "View3D > Sidebar (N) > BoneMaker",
-    "description": "Fit bones from vertex groups using weighted PCA",
+    "description": "Fit bones from vertex groups using weighted PCA.",
     "category": "BoneMaker",
 }
 
@@ -452,4 +452,5 @@ def unregister():
 
 if __name__ == "__main__":
     register()
+
 
