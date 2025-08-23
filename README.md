@@ -9,7 +9,7 @@ Bonus     : Empty Vgroups Remover <br>
 
 ## Features 
 - Generate bone from selected vgroup
-- Genera bones from all vgroups
+- Generate bones from all vgroups
 - Automatically connect generated bone the vgroup
 - Just check screenshot below and try it yourself :tired_face:
  <br> <br> <br>
