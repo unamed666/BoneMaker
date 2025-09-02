@@ -7,7 +7,7 @@ Blender Addon to make a bone based on vgroup color <br><br>
 <pre>
 Location     : 3D viewport → Side Bar (N button) → BoneMaker
 Bonus        : Empty Vgroups Remover
-Blender Ver. : Tested with Blender 4.5.1, expected to work with 2.80 and above
+Blender Ver. : Tested with Blender 4.5.1, expected to work with 2.8 and above
 </pre>
  This addon is still very rough. I don’t even know what I’m making, and I’m not sure if it will be useful or completely useless. If you can optimize it or create a much better version, please go ahead and let me know, because I’d love to use it too :kissing_heart:
 
